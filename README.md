@@ -20,4 +20,4 @@ This project contains starter code for a few of these approaches.
 * traditional_methods.ipynb  -  a how-to notebook
 * Navigating Interpretable and Predictive Models.pdf  -  slides from the Domino tech talk on xAI which includes many links to further research
 
-project files can be found at [https://github.com/joshpoduska/xAI](https://github.com/joshpoduska/xAI)
+project files can be found at [https://github.com/dominodatalab/domino-reference-project-xai](https://github.com/dominodatalab/domino-reference-project-xai)
