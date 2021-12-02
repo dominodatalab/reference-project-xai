@@ -1,4 +1,4 @@
-*Disclaimer - Domino Reference Projects are starter kits built by Domino researchers. They are not supported by Domino. Load them as Domnio file system projects, not Git-based projects. They are then yours to use or modify as you see fit. We hope they will be a beneficial tool in your analytical journey!
+*Disclaimer - Domino Reference Projects are starter kits built by Domino researchers. They are not supported by Domino. Load them as Domino file system projects, not Git-based projects. They are then yours to use or modify as you see fit. We hope they will be a beneficial tool in your analytical journey!
 
 ## Welcome to the Domino Reference Project for...
 
