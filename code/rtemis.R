@@ -1,3 +1,6 @@
+# rtemis recent updates require R v4.1
+# this script has yet to be updated for the changes to rtemis uder the new updates
+
 library(devtools)
 remotes::install_github("egenn/rtemis") #user prompted for input
 library(rtemis)
