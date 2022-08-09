@@ -49,9 +49,6 @@ parkinsons.addtree.tune <- s_ADDTREE(parkinsons.train, parkinsons.test,
                                      grid.resampler.rtset = rtset.resample(resampler = 'strat.boot',
                                                                            n.resamples = 5))
 
-# results of tuning
-parkinsons.addtree.tune$extra$gridSearch$tune.results
-
 # nested resampling for cross-validation and hyperparameter tuning
 # this takes a while so commenting out
 # parkinsons.addtree.10fold <- elevate(parkinsons, mod = 'addtree', 
