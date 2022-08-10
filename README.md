@@ -29,7 +29,7 @@ This project contains starter code for a few of these approaches and some educat
 * Learn more about xAI by browsing the instructional pdf
 * updaetd project files can be found at [https://github.com/dominodatalab/domino-reference-project-xai](https://github.com/dominodatalab/domino-reference-project-xai)
 
-## Container Details
+## Prerequisites
 
 This project uses standard python libraries and any base Domino image should work well. The last test was done on *standard-environment:ubuntu18-py3.8-r4.1-domino5.1*. The additional Python libraries needed are *shap*, *lime*, and *pycebox*. You can simply install them in the cell provided when running the notebook interactively. Alternatively, you can add them to a custom compute environment by appending the following lines to the *standard-environment:ubuntu18-py3.8-r4.1-domino5.1* dockerfile:
 
